@@ -1,7 +1,7 @@
 #!/bin/bash
 porta1=80
 porta2=443
-echo "d3-hangry-stg1 $porta1
+echo "192.168.2.100 $porta1
 hostname-1 $porta2
 ahostname-2 $porta1
 hostname-3 $porta2" | \
